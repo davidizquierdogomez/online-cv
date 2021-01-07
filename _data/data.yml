@@ -13,10 +13,10 @@ sidebar:
 
     # Sidebar links
     email: davidizquierdogomez@gmail.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: david izquierdo-gómez
-    github: david izquierdo gomez
+    #phone: 012 345 6789
+    Scholar Google: Izquierdo-Gomez David #do not add http://
+    linkedin: David Izquierdo Gómez
+    github: David_Izquierdo
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -169,19 +169,19 @@ skills:
 
     toolset:
       - name: Python & Django
-        level: 98%
+        level: 28%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 18%
 
       - name: Angular
-        level: 98%
+        level: 2%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 15%
 
       - name: Ruby on Rails
-        level: 85%
+        level: 12%
 
       - name: Sketch & Photoshop
         level: 60%
